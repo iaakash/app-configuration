@@ -1,5 +1,5 @@
 build:
-  id: 1089
-  version: 2.0
-  name: "dev-build"
-  type: "Development build"
+  id: 45
+  version: 1.0
+  name: "DEFAULT-GIT-build"
+  type: "Development GIT build"
